@@ -1,1 +1,0 @@
-Retail data analytics project analyzing 47M+ sales revenue using Python, SQL, and Power BI. Designed KPIs and interactive dashboards to uncover insights on store performance, payment trends, and customer behavior.
